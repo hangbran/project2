@@ -1,12 +1,12 @@
 # project2
-
+<h6>PROJECT 2 <H6>
 In a file named "project.cpp", you need to write a program that prompts the user to provide a password, and then print out the common passwords most similar to the password the user provided.
 
-Each test case has a file named "common_passwords.txt", this file consists of the 1000 most common passwords. You can assume no password contains whitespace.
+Each test case has a file named "common_passwords.txt", this file consists of the 1000 most common passwords. You can assume **no password contains whitespace.**
 
 However, some of the passwords are quite offensive: so here is my redacted file (the test cases don't involve any of the offensive terms): common_passwords.txt
 
-This file was modified from: https://github.com/DavidWittman/wpxmlrpcbrute/blob/master/wordlists/1000-most-common-passwords.txt
+This file was *modified* from: https://github.com/DavidWittman/wpxmlrpcbrute/blob/master/wordlists/1000-most-common-passwords.txt
 
  
 
